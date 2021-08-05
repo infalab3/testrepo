@@ -1,0 +1,13 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[gui]
+	wmstate = normal
+	geometry = 1109x563+96+96 216 255
+[remote "origin"]
+	url = https://infalab3@dev.azure.com/infalab3/CICD_Pipeline/_git/CICD_Pipeline
+	fetch = +refs/heads/*:refs/remotes/origin/*
